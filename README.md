@@ -1,4 +1,4 @@
-hello I am Paul Mararo kinuthia
+I am Paul Mararo kinuthia
 I bridge the gap between innovation and security, leveraging my expertise in software development to create robust and secure applications. With a keen eye for detail and a passion for proactive defense, I build solutions that thrive in today's ever-evolving threat landscape.
 
 Key Strengths:
